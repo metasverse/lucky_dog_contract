@@ -9,6 +9,16 @@ ERC721合约(用户创建活动的门票,以下简称NFT):0xF1Db72B50735C3E7Dc6E
 
 LuckyDog合约（用于创建活动，已下简称LD）：0xd5D6159365709Ec65F08a8Bc11540e656B0F9a12
 
+
+马蹄mainnet主网
+
+ERC2O合约（用于模拟WETH,已下简称WETH）:0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619
+
+ERC721合约(用户创建活动的门票,以下简称NFT):0x45C5A27c1013eB0513D66519948e38361610703b
+
+LuckyDog合约（用于创建活动，已下简称LD）：暂未部署
+
+
 关键函数使用步骤
 
 1.isApprovedForAll，在LD创建活动时，用户检测当前选择的NFT是否已经授权给LD，伪代码:loadContarct(NFT合约地址).isApprovedForAll('用户地址',’LD合约地址‘)

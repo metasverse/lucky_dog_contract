@@ -16,7 +16,7 @@ ERC2O合约（用于模拟WETH,已下简称WETH）:0x7ceB23fD6bC0adD59E62ac25578
 
 ERC721合约(用户创建活动的门票,以下简称NFT):0x45C5A27c1013eB0513D66519948e38361610703b
 
-LuckyDog合约（用于创建活动，已下简称LD）：暂未部署
+LuckyDog合约（用于创建活动，已下简称LD）：0x4Bc2283194becAAB4Fd5EB4A7dA1Cf03626c024e
 
 
 关键函数使用步骤
